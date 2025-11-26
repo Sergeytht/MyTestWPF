@@ -24,9 +24,7 @@ namespace MyTestWPF
         {
             InitializeComponent();
 
-            //MNBVMNVNMBMNVB
-
-            //jhghjfjhfjkghgjhff
+            
         }
     }
 }
