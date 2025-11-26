@@ -27,6 +27,8 @@ namespace MyTestWPF
             //MNBVMNVNMBMNVB
 
             // лорпропароарпа
+
+            // ДЛОРЛДРЛДРЛДОРЛДРЛРО
         }
     }
 }
