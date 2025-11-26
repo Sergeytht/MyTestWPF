@@ -23,6 +23,8 @@ namespace MyTestWPF
         public MainWindow()
         {
             InitializeComponent();
+
+            //MNBVMNVNMBMNVB
         }
     }
 }
